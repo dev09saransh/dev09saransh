@@ -1,66 +1,86 @@
-# 👋 Hi there, I'm Saransh Dev!
+# 👨‍💻 Saransh Dev
 
-🎓 7th Semester CSE Student | 💡 Passionate about Data Science & Machine Learning  
-🛡️ Certified in Cybersecurity | 👨‍💻 Innovision Club Lead at SMIT  
-📍 Based in Darjeeling, India | 🧠 Lifelong Learner | 🚀 Exploring Data, Security & Emerging Tech
+### Aspiring Cybersecurity & Technology Professional
 
 ---
 
 ## 🚀 About Me
 
-I’m currently pursuing my B.Tech in Computer Science and Engineering from **Sikkim Manipal Institute of Technology**.  
-I’m passionate about leveraging **data-driven solutions** and **secure technologies** to solve real-world challenges.
-
-As the **Lead of Innovision**, the official technical club of SMIT, I guide team projects, coordinate events, and nurture a collaborative tech environment on campus.  
-My background includes hands-on experience in **data science**, **machine learning**, **cybersecurity**, and emerging fields like **blockchain** and **virtual reality**.
+I am a disciplined and motivated Computer Science student with a strong interest in **cybersecurity, risk management, and security analytics**. I focus on building industry-relevant skills through hands-on learning, simulations, and certifications from globally recognized organizations. My goal is to contribute to secure, resilient systems while continuously growing as a professional.
 
 ---
 
-## 🏆 Achievements
+## 🛡️ Cybersecurity Certifications
 
-- 🏖️ **Beach Bound App** – Built an app that assesses beach conditions to improve coastal tourism, developed during **Smart India Hackathon 2025**
-- 💻 **Cybersecurity Job Simulation** – Simulated a real-world cyber breach scenario for **Deloitte Australia**, identifying threats from log files
-- 🧠 Active contributor and leader in student tech activities and innovation challenges
+### 🟢 Foundations of Cybersecurity – Google (Coursera)
 
----
-
-## 📁 Projects
-
-- **Inventory Management System**  
-  Developed a predictive inventory manager using historical sales data (2024–2025)
-
-- **Beach Bound – Smart India Hackathon 2025**  
-  Designed an app to assess beach suitability in real time, improving tourist experiences
-
-- **Cybersecurity Log Simulation**  
-  Worked on simulated cyber incidents, analyzed suspicious user behavior using logs
+**Issued:** June 16, 2025
+Built a strong foundation in cybersecurity principles, threat landscapes, security ethics, and industry roles. This course established clarity on how modern security teams operate and protect digital assets.
 
 ---
 
-## 🎓 Certifications
+### 🟢 Play It Safe: Manage Security Risks – Google (Coursera)
 
-- 🔐 **Foundations of Cybersecurity** – Google  
-- 🕵️ **Play It Safe: Manage Security Risks** – Google  
-- 💼 **Cybersecurity Job Simulation** – Deloitte Australia via Forage  
-- 📊 **Exploratory Data Analysis for ML** – IBM
+**Issued:** June 16, 2025
+Focused on identifying, analyzing, and mitigating security risks. Learned structured approaches to threat modeling, vulnerability assessment, and applying security controls in real-world environments.
 
 ---
 
-## 💻 Tech & Tools
+### 🟢 Connect and Protect: Networks and Network Security – Google (Coursera)
 
-- **Languages**: Python, C/C++, Java, C#  
-- **Data Tools**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
-- **Security & Systems**: Cybersecurity, Log Analysis, Web Security, Linux  
-- **Others**: Git & GitHub, Microsoft Office, PowerPoint, Gmail, Blockchain, VR  
-- **Softwares**: Jupyter Notebook, Google Colab, VS Code  
+**Issued:** August 3, 2025
+Developed hands-on understanding of network architectures, common attacks, and defense mechanisms. Gained exposure to firewalls, IDS/IPS, and secure network design principles.
 
 ---
 
-## 🌐 Languages
+### 🔵 The Complete Hands-On Cybersecurity Analyst Course – Udemy
 
-- English – Proficient  
-- Hindi – Proficient  
-- Nepali – Advanced
+**Issued:** September 8, 2025
+**Duration:** 81 Hours
+An intensive practical course covering real-world cybersecurity analyst skills, including monitoring, detection techniques, and understanding SOC-style workflows.
+
+---
+
+### 🔵 Cyber Job Simulation – Deloitte (Forage)
+
+**Issued:** June 25, 2025
+Completed role-based cybersecurity tasks simulating real industry workflows. This experience provided insight into enterprise security operations, professional problem-solving, and decision-making under constraints.
+
+---
+
+### 🟣 Exploratory Data Analysis for Machine Learning – IBM (Coursera)
+
+**Issued:** June 16, 2025
+Learned data exploration, visualization, and analytical techniques. These skills support security analytics, anomaly detection, and data-driven cybersecurity decisions.
+
+---
+
+## 🧠 Skills
+
+* Cybersecurity Fundamentals
+* Risk Assessment & Threat Modeling
+* Network Security Basics
+* Security Operations Awareness
+* Data Analysis & Visualization
+* Analytical Thinking & Problem Solving
+
+---
+
+## 🎓 Education
+
+**B.Tech – Computer Science & Engineering**
+Sikkim Manipal Institute of Technology
+(Currently Pursuing)
+
+---
+
+## 🎯 Career Interests
+
+* Cybersecurity Analyst
+* Security Operations Center (SOC)
+* Risk Management
+* Information Security
+* Defence & Technology-Oriented Roles
 
 ---
 
