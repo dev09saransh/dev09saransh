@@ -1,95 +1,68 @@
-# 👨‍💻 Saransh Dev
+# Hi, I'm Saransh Dev 👋  
 
-### Aspiring Cybersecurity & Technology Professional
-
----
-
-## 🚀 About Me
-
-I am a disciplined and motivated Computer Science student with a strong interest in **cybersecurity, risk management, and security analytics**. I focus on building industry-relevant skills through hands-on learning, simulations, and certifications from globally recognized organizations. My goal is to contribute to secure, resilient systems while continuously growing as a professional.
+🚀 Full Stack Developer | Flutter | Node.js | AI Systems  
 
 ---
 
-## 🛡️ Cybersecurity Certifications
-
-### 🟢 Foundations of Cybersecurity – Google (Coursera)
-
-**Issued:** June 16, 2025
-Built a strong foundation in cybersecurity principles, threat landscapes, security ethics, and industry roles. This course established clarity on how modern security teams operate and protect digital assets.
-
----
-
-### 🟢 Play It Safe: Manage Security Risks – Google (Coursera)
-
-**Issued:** June 16, 2025
-Focused on identifying, analyzing, and mitigating security risks. Learned structured approaches to threat modeling, vulnerability assessment, and applying security controls in real-world environments.
+## 🧠 About Me  
+- Computer Science Undergraduate (B.Tech CSE)  
+- Built **Stardust – Digital Asset Management System**  
+- Experience in **full-stack development, authentication systems, and backend design**  
+- Interest in **secure systems, AI workflows, and scalable applications**  
+- Lead @ Innovision Technical Club  
 
 ---
 
-### 🟢 Connect and Protect: Networks and Network Security – Google (Coursera)
+## 🛠️ Tech Stack  
 
-**Issued:** August 3, 2025
-Developed hands-on understanding of network architectures, common attacks, and defense mechanisms. Gained exposure to firewalls, IDS/IPS, and secure network design principles.
+**Languages:**  
+Python, Java, C/C++, JavaScript, Dart  
 
----
+**Development:**  
+Flutter, Node.js, REST APIs  
 
-### 🔵 The Complete Hands-On Cybersecurity Analyst Course – Udemy
+**Database:**  
+SQLite  
 
-**Issued:** September 8, 2025
-**Duration:** 81 Hours
-An intensive practical course covering real-world cybersecurity analyst skills, including monitoring, detection techniques, and understanding SOC-style workflows.
-
----
-
-### 🔵 Cyber Job Simulation – Deloitte (Forage)
-
-**Issued:** June 25, 2025
-Completed role-based cybersecurity tasks simulating real industry workflows. This experience provided insight into enterprise security operations, professional problem-solving, and decision-making under constraints.
+**Core Skills:**  
+Authentication Systems, System Design, AI Logic Design  
 
 ---
 
-### 🟣 Exploratory Data Analysis for Machine Learning – IBM (Coursera)
+## 🔥 Featured Projects  
 
-**Issued:** June 16, 2025
-Learned data exploration, visualization, and analytical techniques. These skills support security analytics, anomaly detection, and data-driven cybersecurity decisions.
+### 🌌 Stardust Vault  
+Secure digital asset management platform  
+- Flutter + Node.js  
+- OTP Authentication  
+- AI-powered assistant  
+- Modular vault architecture  
 
----
+### 📦 Inventory Management System  
+- Stock monitoring & sales analysis  
+- Data-driven insights  
 
-## 🧠 Skills
-
-* Cybersecurity Fundamentals
-* Risk Assessment & Threat Modeling
-* Network Security Basics
-* Security Operations Awareness
-* Data Analysis & Visualization
-* Analytical Thinking & Problem Solving
-
----
-
-## 🎓 Education
-
-**B.Tech – Computer Science & Engineering**
-Sikkim Manipal Institute of Technology
-(Currently Pursuing)
+### 🌊 Beach Bound (SIH 2025)  
+- Real-time environmental analysis system  
 
 ---
 
-## 🎯 Career Interests
+## 🧩 Additional Experience  
 
-* Cybersecurity Analyst
-* Security Operations Center (SOC)
-* Risk Management
-* Information Security
-* Defence & Technology-Oriented Roles
+🔐 Cybersecurity  
+- Log analysis & threat detection  
+- Web security fundamentals  
 
----
-
-## 📫 Let's Connect
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/saransh-dev-160a90252/)  
-- ✉️ devsaransh1@gmail.com  
+📊 Data Analysis  
+- Exploratory Data Analysis (EDA)  
+- Data cleaning & interpretation  
 
 ---
 
-> _"Turning data into decisions, and securing the path forward."_  
+## 📫 Connect With Me  
+- LinkedIn: https://linkedin.com/in/saransh-dev-160a90252  
+- Email: devsaransh1@gmail.com  
 
+---
+
+⭐ *Building secure, scalable, and impactful systems.*
