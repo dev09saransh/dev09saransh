@@ -1,6 +1,7 @@
 # 👋 Hello, I'm Saransh Dev! 
 ## 🏆 Credentials & Certifications
 
+
 ### 🛡️ Cyber Security
 - **Deloitte Cyber Security Job Simulation** (Forage)
     - Completed an intensive simulation focused on incident response, digital forensics, and threat analysis.
@@ -9,17 +10,31 @@
 - **Google Cybersecurity Certificate** (Coursera)
     - Foundations of cybersecurity, Linux, Python, and SQL for security professionals.
 
+
 ### 📊 Data Analysis
 - **IBM Data Analyst Professional** (Coursera)
     - Advanced data visualization, statistical analysis, and predictive modeling using Python and SQL.
 - **Data Science Foundations** (Coursera)
     - Core principles of data manipulation and insight generation.
 
+
+## 🚀 Live Deployment Hub
+
+| Project | URL | Status |
+| :--- | :--- | :--- |
+| Stardust Landing Page | [Link](https://dev09saransh.github.io/stardust_landingpage/) | ![Live](https://img.shields.io/badge/Status-Live-brightgreen) |
+| Stardust Vault (App) | [Link](https://dev09saransh.github.io/stardust_frontend/) | ![Live](https://img.shields.io/badge/Status-Live-brightgreen) |
+| Stardust AI Guide | [Link](https://dev09saransh.github.io/stardust-guide-ai/) | ![Live](https://img.shields.io/badge/Status-Live-brightgreen) |
+
+
 ---
+
 
 ## 🌌 The Stardust Ecosystem
 
+
 The **Stardust Financial Vault** is a multi-layered security ecosystem designed to provide a secure digital succession and asset management vault.
+
 
 | Repository | Description | Tech Stack |
 | :--- | :--- | :--- |
@@ -27,9 +42,12 @@ The **Stardust Financial Vault** is a multi-layered security ecosystem designed 
 | [**stardust_backend**](https://github.com/dev09saransh/stardust_backend) | Robust API services and secure data handling. | Node.js, Express, PostgreSQL |
 | [**stardust_ai**](https://github.com/dev09saransh/stardust_ai) | Generative AI microservice for intelligent document analysis. | Python, Flask, OpenAI |
 
+
 ---
 
+
 ## 🛠️ Technical Toolkit
+
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white)
@@ -39,17 +57,9 @@ The **Stardust Financial Vault** is a multi-layered security ecosystem designed 
 ![CyberSecurity](https://img.shields.io/badge/Cyber_Security-%23000000.svg?style=flat-square&logo=hackthebox&logoColor=white)
 ![DataAnalysis](https://img.shields.io/badge/Data_Analysis-0070D2?style=flat-square&logo=salesforce&logoColor=white)
 
+
 ---
+
 
 ## 📈 My Stats
 ![Saransh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev09saransh&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=dev09saransh&layout=compact&theme=radical)
-
----
-
-## 📬 Connect with Me
-- **LinkedIn**: [dev09saransh](https://linkedin.com/in/dev09saransh)
-- **Portfolio**: [Stardust Landing Page](https://dev09saransh.github.io/stardust_landingpage/)
-
-*"Building the future, one secure line of code at a time."*
-
