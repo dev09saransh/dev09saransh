@@ -1,11 +1,4 @@
 # 👋 Hello, I'm Saransh Dev! 
-
-### 🛡️ Cyber Security Aspirant | 📊 Data Analyst | 🚀 Full-Stack Developer
-
-A passionate technology enthusiast dedicated to building secure, scalable, and intelligent digital solutions. Currently focused on the **Stardust Ecosystem** and advancing my expertise in Cyber Security and Data Science.
-
----
-
 ## 🏆 Credentials & Certifications
 
 ### 🛡️ Cyber Security
@@ -49,8 +42,8 @@ The **Stardust Financial Vault** is a multi-layered security ecosystem designed 
 ---
 
 ## 📈 My Stats
-![Saransh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev09saransh&show_icons=true&theme=vibrant)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev09saransh&layout=compact&theme=vibrant)
+![Saransh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev09saransh&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=dev09saransh&layout=compact&theme=radical)
 
 ---
 
